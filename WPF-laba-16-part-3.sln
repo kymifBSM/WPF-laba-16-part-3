@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF-laba-16-part-3", "WPF-laba-16-part-3\WPF-laba-16-part-3.csproj", "{102D2D35-0C1A-4DBE-9255-E712018CDA93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{102D2D35-0C1A-4DBE-9255-E712018CDA93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102D2D35-0C1A-4DBE-9255-E712018CDA93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102D2D35-0C1A-4DBE-9255-E712018CDA93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102D2D35-0C1A-4DBE-9255-E712018CDA93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7578D6C1-0E7E-4D64-8280-1ABC56950BFD}
+	EndGlobalSection
+EndGlobal
